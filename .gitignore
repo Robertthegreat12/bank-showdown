@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore 
 *.csv
 !summary_table.csv   
+!summary_checking_per_deposit.csv
