@@ -1,11 +1,18 @@
-Bank,Complaints,Relief %,Monetary relief %,Timely %
-PayPal,34850,32.7,14.16,99.94
-Bank of America,92405,31.94,24.59,96.97
-Discover,30087,28.5,4.23,100.0
-Wells Fargo,93933,20.3,8.17,99.99
-Capital One,126371,18.52,5.37,99.99
-Chase,103861,17.31,8.14,100.0
-Citizens,10900,15.88,15.88,99.98
-Ally,23055,10.43,3.39,100.0
-Chime,29494,8.45,5.92,99.77
-Block (Cash App),70932,0.17,0.17,98.65
+Bank,Complaints,Relief %,Monetary relief %,Group
+Bank of America,58952,40.93,34.53,Core banking
+PayPal,6272,34.95,18.23,Core banking
+Ally,4544,29.43,10.54,Core banking
+Discover,12810,25.78,8.67,Core banking
+Citizens,5995,24.97,24.97,Core banking
+Capital One,62322,19.87,10.36,Core banking
+Wells Fargo,52744,19.79,12.4,Core banking
+Chase,65555,18.71,11.79,Core banking
+Chime,23584,8.71,6.35,Core banking
+Block (Cash App),13215,0.24,0.24,Core banking
+PayPal,26838,31.52,13.3,Money transfer
+Bank of America,6348,21.69,19.86,Money transfer
+Wells Fargo,6698,9.66,6.73,Money transfer
+Capital One,1293,8.63,4.9,Money transfer
+Chime,4273,6.9,5.55,Money transfer
+Chase,8156,6.39,4.86,Money transfer
+Block (Cash App),56468,0.04,0.04,Money transfer
