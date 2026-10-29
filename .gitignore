@@ -182,3 +182,4 @@ cython_debug/
 *.csv
 !summary_table.csv   
 !summary_checking_per_deposit.csv
+!summary_fintech_per_user.csv
